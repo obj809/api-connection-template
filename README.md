@@ -24,6 +24,7 @@ except requests.exceptions.RequestException as e:
     print(f"API request failed: {e}")
 ```
 
+```markdown
 # prompt_template
 
 You are an expert API integration developer with deep knowledge of RESTful APIs, data structures, and Python programming.
@@ -55,3 +56,4 @@ Please provide:
 - The updated `api_call.py` code
 - The required `.env` configuration
 - A brief explanation of what data is being retrieved
+```
