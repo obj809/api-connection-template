@@ -18,4 +18,4 @@ pip freeze > requirements.txt
 
 ## run main
 
-python api_call
+python api_call.py
