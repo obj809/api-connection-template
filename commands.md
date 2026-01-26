@@ -16,6 +16,6 @@ pip install requests python-dotenv
 
 pip freeze > requirements.txt
 
-## run main
+## run api_call.py
 
 python api_call.py
