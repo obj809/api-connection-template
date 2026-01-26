@@ -1,4 +1,4 @@
-# API Integration Prompt Template
+# prompt_template
 
 You are an expert API integration developer with deep knowledge of RESTful APIs, data structures, and Python programming.
 
